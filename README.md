@@ -6,7 +6,7 @@
 通过HTTP请求，调用图灵机器人API，拿到POST请求的数据，结合内置命令行操作
 
 ## 程序效果
-![](https://github.com/dravenxiaokai/robot/blob/master/public/img/jietu.png)
+![](https://raw.githubusercontent.com/dravenxiaokai/robot/master/public/img/jietu.png)
 
 ## 运行配置
 1. `npm start` 启动程序

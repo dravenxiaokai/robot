@@ -8,5 +8,5 @@
 2. `npm link` 映射全局，调用全局命令`robot`即可运行聊天程序
 3. `npm publish` 发布
 
-## [第三方平台入口](http://www.tuling123.com/)
-### [我的微博](http://weibo.com/u/3826537889?refer_flag=1001030201_&is_all=1)
+### [第三方平台入口](http://www.tuling123.com/)
+##### [我的微博](http://weibo.com/u/3826537889?refer_flag=1001030201_&is_all=1)
